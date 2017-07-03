@@ -1,2 +1,2 @@
 # SSD
-This is my DSA Server Side Developement Course Workshops site.
+This is the Server Side Developement (SSD) Course Workshops site.
